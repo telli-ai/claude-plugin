@@ -1,6 +1,6 @@
 {
   "name": "telli-plugins",
-  "description": "Connect Claude to telli AI voice agents through Charlie.",
+  "description": "Connect Claude to telli through Charlie",
   "owner": {
     "name": "telli"
   },
@@ -8,7 +8,7 @@
     {
       "name": "telli",
       "source": "./",
-      "description": "Connect Claude to telli AI voice agents through Charlie."
+      "description": "Connect Claude to telli through Charlie"
     }
   ]
 }

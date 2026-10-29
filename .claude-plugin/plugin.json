@@ -1,7 +1,7 @@
 {
   "name": "telli",
   "version": "0.1.0",
-  "description": "Connect Claude to telli AI voice agents through Charlie.",
+  "description": "Connect Claude to telli through Charlie",
   "author": {
     "name": "telli"
   },
