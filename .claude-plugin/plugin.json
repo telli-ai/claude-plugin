@@ -1,6 +1,7 @@
 {
   "name": "telli",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "Connect Claude to telli through Charlie",
   "author": {
     "name": "telli"
