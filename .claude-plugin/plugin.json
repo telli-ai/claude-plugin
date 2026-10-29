@@ -6,5 +6,6 @@
   "author": {
     "name": "telli"
   },
-  "repository": "https://github.com/telli-ai/claude-plugin"
+  "repository": "https://github.com/telli-ai/claude-plugin",
+  "privacyPolicyUrl": "https://www.telli.com/data-privacy"
 }
