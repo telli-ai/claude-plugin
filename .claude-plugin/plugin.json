@@ -8,5 +8,9 @@
     "name": "telli"
   },
   "repository": "https://github.com/telli-ai/claude-plugin",
+  "homepage": "https://www.telli.com",
+  "documentationUrl": "https://docs.telli.com/integrations/mcp",
+  "supportUrl": "https://docs.telli.com/en/get-started",
+  "termsOfServiceUrl": "https://trust.telli.com/resources?name=terms-of-service-en",
   "privacyPolicyUrl": "https://www.telli.com/data-privacy"
 }
