@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "telli": {
+      "type": "http",
+      "url": "https://mcp.telli.com/mcp"
+    }
+  }
+}
