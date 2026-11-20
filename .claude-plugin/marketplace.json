@@ -1,6 +1,6 @@
 {
   "name": "telli-plugins",
-  "description": "Connect Claude to telli",
+  "description": "Claude plugins from telli",
   "owner": {
     "name": "telli"
   },
