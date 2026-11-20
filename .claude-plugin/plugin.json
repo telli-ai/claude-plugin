@@ -3,7 +3,7 @@
   "displayName": "telli",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "Connect Claude to telli through Charlie",
+  "description": "Connect Claude to telli",
   "author": {
     "name": "telli"
   },

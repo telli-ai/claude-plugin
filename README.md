@@ -1,6 +1,6 @@
 # telli for Claude
 
-Connect Claude to telli through Charlie. Build and improve AI voice agents, create workflows, and review calls directly from Claude.
+Connect Claude to telli. Build and improve AI voice agents, create workflows, and review calls directly from Claude.
 
 Sign in with your telli account through OAuth.
 
